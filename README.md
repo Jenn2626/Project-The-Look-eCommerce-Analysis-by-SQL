@@ -1,4 +1,4 @@
-# Project: The Look eCommerce Analysis 
+# Project: The Look eCommerce Analysis
 ---
 ## Table of Contents
 - [Overview](#overview)
@@ -24,6 +24,8 @@
 | 5 | products |
 | 6 | orders |
 | 7 | events |
+
+> Entity Relationship Diagram: [ERD](https://github.com/Jenn2626/Project-The-Look-eCommerce-Analysis-by-SQL/blob/main/ERD%20The%20Look.png)
 ## Objective
 > The purpose of this project is to conduct a product performance analysis for The Look store by evaluating their sales performances across different product categories, brands, and individual products. This will enable us to identify top-performing and underperforming products for informing product optimization strategies.
 
@@ -34,9 +36,10 @@
 * Dashboard visualization of key findings and performance insights.(in the future)
 
 ## Business Case Study Questions and Answers
-> Solution
+> [Solution](https://github.com/Jenn2626/Project-The-Look-eCommerce-Analysis-by-SQL/blob/main/Ad-hoc%20Question%20and%20Answers.ipynb)
 
 ## References
 1. Medium - TheLook_Ecommerce_Analysis - [Chisomnwa](https://medium.com/@chisomnnamani/the-look-e-commerce-data-analysis-28342b8da868)
 2. Kaggle - The Look: Product Performance (SQL + Tableau) - [Sohini Marik](https://www.kaggle.com/code/sohinimarik/the-look-product-performance-sql-tableau)
 3. Github - theLook ecommerce Project - [Taweilo](https://github.com/Taweilo/thelook-ecommerce/tree/main)
+4. Wordpress - SQL: The Look eCommerce - [Mutya](https://mfarsely.wordpress.com/2023/10/14/sql-the-look-ecommerce/)
