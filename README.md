@@ -33,7 +33,7 @@
 
 * Overview of the dataset including an entity relationship diagram.
 * SQL queries and outputs used for data extraction, cleaning, and analysis.
-* Dashboard visualization of key findings and performance insights.(in the future)
+* 
 
 ## Business Case Study Questions and Answers
 > [Solution](https://github.com/Jenn2626/Project-The-Look-eCommerce-Analysis-by-SQL/blob/main/Ad-hoc%20Question%20and%20Answers.ipynb)
